@@ -54,6 +54,7 @@ The original dataset is publicly available on Kaggle:
 ├── Data/
 │ ├── Raw/
 │ │ ├── ecommerce_data.csv ← Original dataset from Kaggle
+│ │ └── ecommerce_data.zip ← Compressed version
 │ └── Processed/
 │ └── ecommerce_sample50K.csv ← Cleaned dataset used in dashboard
 │
