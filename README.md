@@ -66,6 +66,8 @@ The original dataset is publicly available on Kaggle:
 │ └── Filters.png
 └── README.md
 
+<pre lang="markdown"><code>## 🗂️ Repository Structure ``` ├── Data/ │ ├── Raw/ │ │ └── ecommerce_data.csv ← Original dataset from Kaggle │ └── Processed/ │ └── ecommerce_sample50K.csv ← Cleaned dataset used in Tableau ├── E-Commerce Analytics Dashboard 50 K.twb ← Tableau Workbook (editable) ├── E-Commerce Analytics Dashboard 50 K.twbx ← Packaged version (includes data) ├── images/ │ ├── Performance Overview.png │ ├── InteractiveCountryMap.png │ ├── TopProducts.png │ └── Filters.png └── README.md ``` </code></pre>
+
 
 ---
 
